@@ -112,7 +112,3 @@ Kaggle Playground Series S5E4
 Libraries: XGBoost, Optuna, scikit-learn
 
 
-
-
-
-Would you like a matching `requirements.txt` file too?
